@@ -1,0 +1,11 @@
+particlelifetime random? min,max
+particle color random? min,max hue,sat,val
+particle startdistance random? min, ma
+particle acceleration
+startrotation: random, fixed, pointed
+circle around center speed
+pulsate?
+rotation direction
+uniform distribution
+snow fluctuation (feather effect)
+bouncy particles
